@@ -3,7 +3,7 @@ This is a hardware mod to add MIDI IN capability to the [Korg Volca Modular](htt
 
 ![Board](https://i.imgur.com/cTA2aZk.jpg)
 
-Bill Of Materials:
+## Bill Of Materials:
  * R1  220 ohm resistor
  * R2  270 ohm resistor
  * D1  1N4148 diode
@@ -11,9 +11,21 @@ Bill Of Materials:
  * J2  DIN-5 connector
  * U1  6n139 optocoupler
 
-How to install:
+## How to install:
 
--In these example photos the mod was already installed (the red/orange/yellow/green cables), but I repeated the process to take them and make it easier.
+BEFORE YOU BEGIN: 
+
+* This installation process requires you to open your Korg volca Modular, most likely voiding the warranty. The creator of this mod and all the contributors of this project are not to held responsible for possible malfunctions caused by this process.
+
+* In these example photos the mod was already installed (the red/orange/yellow/green cables), but I repeated the process to take them and make it easier.
+
+* Read the tutorial and make sure you understand all the steps before proceeding.
+
+Be sure to have the following tools:
+  * M3 screwdriver
+  * Flat screwdriver (not absolutely necessary but it's useful to unplug the ribbon connectors)
+  * Pliers or something to snip and cut thin cables
+  * A dril or any tool to open a hole in the case
 
 1-	Unscrew the screws from the back.
 ![Board](https://i.imgur.com/QdmYQyK.jpg)
