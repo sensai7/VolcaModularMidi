@@ -9,7 +9,7 @@ This is a hardware mod to add MIDI IN capability to the [Korg Volca Modular](htt
  * D1  1N4148 diode
  * J1  2.54mm header
  * J2  DIN-5 connector
- * U1  6n139 optocoupler
+ * U1  6n139 optocoupler (6n138 and 6n137 should also work as well)
 
 ## How to install:
 
@@ -17,7 +17,7 @@ BEFORE YOU BEGIN:
 
 * This installation process requires you to open your Korg volca Modular, most likely voiding the warranty. The creator of this mod and all the contributors of this project are not to held responsible for possible malfunctions caused by this process.
 
-* In these example photos the mod was already installed (the red/orange/yellow/green cables), but I repeated the process to take them and make it easier.
+* In these example photos the mod was already installed (the red/orange/yellow/green cables), but I repeated the process to take the photos and make it easier to explain.
 
 * Read the tutorial and make sure you understand all the steps before proceeding.
 
