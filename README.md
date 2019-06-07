@@ -15,7 +15,7 @@ This is a hardware mod to add MIDI IN capability to the [Korg Volca Modular](htt
 
 BEFORE YOU BEGIN: 
 
-* This installation process requires you to open your Korg volca Modular, most likely voiding the warranty. The creator of this mod and all the contributors of this project are not to held responsible for possible malfunctions caused by this process.
+* This installation process requires you to open your Korg volca Modular, most likely voiding the warranty. The creator of this mod and all the contributors of this project are not to be held responsible for possible malfunctions caused by this process.
 
 * In these example photos the mod was already installed (the red/orange/yellow/green cables), but I repeated the process to take the photos and make it easier to explain.
 
@@ -54,5 +54,12 @@ Be sure to have the following tools:
 
 9-	Repeat the process from steps 7 to 1 in inverse order to reassemble the unit.
 
-Alternatively if you have the tools, and patience, you can glue the female connections to the case so you can plug it directly (here's a poorly photoshopped concept illustrating it)
+## Mod mods
+
+If you have the tools, and patience, you can glue the female connections to the case so you can plug it directly (here's a poorly photoshopped concept illustrating it)
 ![Board](https://i.imgur.com/LGBjef0.jpg)
+
+If you prefer to use a 3.5mm stereo jack instead of the big DIN-5 connector, here's another poorly photoshopped concept
+![Board](https://i.imgur.com/EPEtcO4.jpg)
+
+
