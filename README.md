@@ -3,6 +3,10 @@ This is a hardware mod to add MIDI IN capability to the [Korg Volca Modular](htt
 
 ![Board](https://i.imgur.com/cTA2aZk.jpg)
 
+## Schematic
+
+[Board](https://i.imgur.com/CP8vnzQ.png)
+
 ## Bill Of Materials:
  * R1  220 ohm resistor
  * R2  270 ohm resistor
